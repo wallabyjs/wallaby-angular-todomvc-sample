@@ -1,1 +1,1 @@
-# wallaby-angular-todomvc
+# Angular.js TodoMVC Example with wallaby.js
